@@ -1,5 +1,3 @@
 # git-course
-hjgzujgjzv
-most 13
 
-libacomb
+ez 11:53
